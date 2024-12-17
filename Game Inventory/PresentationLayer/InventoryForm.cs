@@ -1,8 +1,6 @@
 /*
  *Author: Seth Freeman
- *Date: 12/4/2024
- *Course: CST-150
- *Assignment: Final Milestone
+ *Date: 12/16/2024
  */
 
 using Game_Inventory.Models;
